@@ -90,31 +90,71 @@ VSPACE=“vertical Margin”>>
 ◇ Paired Tags
 
 For Bold : 
-<B> ... </B> or <Strong> ... </Strong>
+
+```html
+<B> ... </B>
+OR
+<Strong> ... </Strong>
+
+```
+
 For Italics : 
-<I> ... </I> or <Em> ... </Em>
+```html
+<I> ... </I>
+OR
+<Em> ... </Em>
+
+```
+
 For Underline : 
+```html
 <U> ... </U>
+
+```
+
 For Big & Small font  : 
+```html
 <Big> ... </Big>
 <Small> ... </Small>
+
+```
+
 To Strike text : 
+```html
 <S> ... </S>
 
+```
+
 For Paragraph : 
+```html
 <p align = "center"> ... </p>
 
-For Superscript : <Sup> ... </Sup>
-eg. X<sup>2</sup>+5
+```
 
-For Subscript : <Sub> ... </Sub>
-eg. H<sub>2</sub>O
+For Superscript : 
+```html
+<Sup> ... </Sup>
+
+```
+Eg. `X<sup>2</sup>+5`
+
+For Subscript : 
+```html
+<Sub> ... </Sub>
+
+```
+Eg. `H<sub>2</sub>O`
 
 ---
 
 ◇ Lists 
 
-For List Item : <li> ... </li>
+For List Item : 
+
+```html
+<li> ... </li>
+
+```
 
 For Unordered List : 
 
