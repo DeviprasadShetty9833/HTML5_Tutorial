@@ -39,7 +39,8 @@
 ```
 ---
 
-Attributes of <body> tag :
+Attributes of `<body>` tag :
+
 ➢ Background - image file as a background behind the displayed text.
 
 ➢ BGCOLOR - background color of web page.
@@ -50,7 +51,7 @@ Attributes of <body> tag :
 
 ➢ Vlink- color of visited hyperlinks.
 
-• Angle brackets : < >  
+• Angle brackets : `< >`  
 
 • Start & End tag : <tag> & </tag>
 => Tags : Not Case Sensitive 
