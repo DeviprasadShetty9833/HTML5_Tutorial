@@ -52,7 +52,7 @@
 
 ➢ Tags : Not Case Sensitive 
 
-For Comments : 
+• For Comments : 
 ```html
 <!-- ... --> 
 
@@ -61,15 +61,17 @@ For Comments :
 
 ● Unpaired Tags
 
-For Line Break : `<br>`
+• For Line Break : `<br>`
 
-For Horizontal rule : 
+• For Horizontal rule : 
 ```html
 <hr size=5 width="20%" color= white >
 
 ```
 
-For Image : <img SRC=“Location”
+• For Image : 
+
+<img SRC=“Location”
 
 Align=“alignment” -URL of image
 
@@ -89,7 +91,7 @@ VSPACE=“vertical Margin”>>
 
 ● Paired Tags
 
-For Bold : 
+• For Bold : 
 ```html
 <B> ... </B>
 OR
@@ -97,7 +99,7 @@ OR
 
 ```
 
-For Italics : 
+• For Italics : 
 ```html
 <I> ... </I>
 OR
@@ -105,32 +107,32 @@ OR
 
 ```
 
-For Underline : 
+• For Underline : 
 ```html
 <U> ... </U>
 
 ```
 
-For Big & Small font  : 
+• For Big & Small font  : 
 ```html
 <Big> ... </Big>
 <Small> ... </Small>
 
 ```
 
-To Strike text : 
+• To Strike text : 
 ```html
 <S> ... </S>
 
 ```
 
-For Paragraph : 
+• For Paragraph : 
 ```html
 <p align = "center"> ... </p>
 
 ```
 
-For Superscript : 
+• For Superscript : 
 ```html
 <Sup> ... </Sup>
 
