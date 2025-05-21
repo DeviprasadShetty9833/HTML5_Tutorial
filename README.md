@@ -28,6 +28,7 @@
 ➢ Syntax of Html : 
 ```html
 
+<!DOCTYPE html>
 <html>
    <head>
       <title> TITLE </title>
