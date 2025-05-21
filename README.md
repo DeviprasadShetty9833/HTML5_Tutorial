@@ -220,9 +220,10 @@ To preformat / position the text :
 > - Style : color, font-size, font-family
 > - Align
 
-• For scrolling the text on horizontal line : 
+• Marquee tag
 
 ```html
+For scrolling the text on horizontal line : 
 <Marquee> ... </Marquee>
 
 ```
