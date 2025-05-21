@@ -27,12 +27,13 @@
 ```html
 
 <html>
-  <head>
-    <title> TITLE </title>
-  </head>
+   <head>
+      <title> TITLE </title>
+   </head>
 
-  <body> Actual contents in the page
-  </body>
+   <body>
+      Actual contents in the page
+   </body>
 </html>
 
 ```
