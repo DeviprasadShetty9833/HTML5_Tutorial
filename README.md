@@ -155,41 +155,39 @@ For List Item :
 
 ```
 
-For Unordered List : 
+🟠 For Unordered List : 
 
-Attribute - 
-
-1) Type
-
-i) Disc (By default) ●
-
-ii) Circle ○
-
-iii) Square ■
-
-For Ordered List : 
-
-Attribute - 
+➢ Attribute - 
 
 1) Type
+> - Disc (By default) ●
 
-i) Type = "1"    - 1,2,3,4...
+> - Circle ○
 
-ii) Type = "i"    - i,ii,iii,iv...
+> - Square ■
 
-iii) Type = "I"   - I,II,III,IV…
+🟠 For Ordered List : 
 
-iv) Type = "a"  - a,b,c,d…
+➢ Attribute - 
 
-v) Type = "A"   - A,B,C,D…
+1) Type
+> - Type = "1"    - 1,2,3,4...
+
+> - Type = "i"    - i,ii,iii,iv...
+
+> - Type = "I"   - I,II,III,IV…
+
+> - Type = "a"  - a,b,c,d…
+
+> - Type = "A"   - A,B,C,D…
 
 2) Start = "number" - beginning of list's no. sequence
 
-`<DL>` tag-  Definition List.
+`<DL>` tag - Definition List.
 
-`<DT>` tag- Definition Term.
+`<DT>` tag - Definition Term.
 
-`<DD>` tag- Definition Description.
+`<DD>` tag - Definition Description.
 
 ```html
 <DL>
@@ -199,7 +197,7 @@ v) Type = "A"   - A,B,C,D…
 
 ```
 
-Pre tag
+• Pre tag
 
 ```html
 To preformat / position the text : 
@@ -207,14 +205,14 @@ To preformat / position the text :
 
 ```
 
-Font tag  
+• Font tag  
 
 ➢ Attributes : 
 > - Size -  maximum  value is 7 
 > - Color - RGB color 
 > - Face - Font name 
 
-For Headings
+• For Headings
 
 6 headings : `<H1> … <H6>`
 
@@ -226,7 +224,7 @@ For Headings
 > - Style : color, font-size, font-family
 > - Align
 
-For scrolling the text on horizontal line : 
+• For scrolling the text on horizontal line : 
 
 ```html
 <Marquee> ... </Marquee>
