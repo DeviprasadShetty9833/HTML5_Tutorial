@@ -61,7 +61,11 @@
 
 ⏺️ Unpaired Tags
 
-• For Line Break : `<br>`
+• For Line Break : 
+```html
+<br>
+
+```
 
 • For Horizontal rule : 
 ```html
