@@ -59,7 +59,7 @@ For Comments :
 ```
 ---
 
-◇ Unpaired Tags
+● Unpaired Tags
 
 For Line Break : `<br>`
 
@@ -87,7 +87,7 @@ VSPACE=“vertical Margin”>>
 
 ---
 
-◇ Paired Tags
+● Paired Tags
 
 For Bold : 
 ```html
@@ -146,7 +146,7 @@ Eg. `H<sub>2</sub>O`
 
 ---
 
-◇ Lists 
+● Lists 
 
 For List Item : 
 ```html
