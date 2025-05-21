@@ -36,7 +36,6 @@
 </html>
 
 ```
----
 
 ➢ Attributes of `<body>` tag :
 
