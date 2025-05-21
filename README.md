@@ -38,17 +38,17 @@
 ```
 ---
 
-Attributes of `<body>` tag :
+➢ Attributes of `<body>` tag :
 
-➢ Background - image file as a background behind the displayed text.
+> - Background - image file as a background behind the displayed text.
 
-➢ BGCOLOR - background color of web page.
+> - BGCOLOR - background color of web page.
 
-➢ Text - text color 
+> - Text - text color 
 
-➢ Link - color for hyperlinks.
+> - Link - color for hyperlinks.
 
-➢ Vlink- color of visited hyperlinks.
+> - Vlink- color of visited hyperlinks.
 
 • Angle brackets : `< >`  
 
