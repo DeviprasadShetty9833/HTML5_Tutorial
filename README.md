@@ -53,7 +53,8 @@ Attributes of `<body>` tag :
 
 • Angle brackets : `< >`  
 
-• Start & End tag : <tag> & </tag>
+• Start & End tag : `<tag>` & `</tag>`
+
 => Tags : Not Case Sensitive 
 
 For Comments : 
@@ -66,7 +67,7 @@ For Comments :
 
 ◇ Unpaired Tags
 
-For Line Break : <br>
+For Line Break : `<br>`
 
 For Horizontal rule : <hr size=5 width="20%" color= white  >
 
