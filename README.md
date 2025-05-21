@@ -69,7 +69,7 @@
 ```
 
 • For Image : 
-
+```html
 <img SRC=“Location”
 
 Align=“alignment” -URL of image
@@ -84,7 +84,9 @@ ALT=“alternative text”
 
 HSPACE=“horizontal Margin”
 
-VSPACE=“vertical Margin”>>
+VSPACE=“vertical Margin”>
+
+```
 
 ---
 
