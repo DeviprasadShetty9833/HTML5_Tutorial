@@ -21,9 +21,9 @@
 
 # HTML
 
-• Extension :  `.html`  OR  `.htm`
+➢ Extension :  `.html`  OR  `.htm`
 
-• Syntax of Html : 
+➢ Syntax of Html : 
 ```html
 
 <html>
@@ -38,7 +38,7 @@
 
 ```
 
-➢ Attributes of `<body>` tag :
+⊡⁠ Attributes of `<body>` tag :
 
 > - Background - image file as a background behind the displayed text.
 > - BGCOLOR - background color of web page.
@@ -46,13 +46,13 @@
 > - Link - color for hyperlinks.
 > - Vlink- color of visited hyperlinks.
 
-• Angle brackets : `< >`  
+➢ Angle brackets : `< >`  
 
-• Start & End tag : `<tag>` & `</tag>`
+➢ Start & End tag : `<tag>` & `</tag>`
 
-➢ Tags : Not Case Sensitive 
+⊡⁠ Tags : Not Case Sensitive 
 
-• For Comments : 
+➢ For Comments : 
 ```html
 <!-- ... --> 
 
@@ -61,19 +61,19 @@
 
 ⏺️ Unpaired Tags
 
-• For Line Break : 
+➢ For Line Break : 
 ```html
 <br>
 
 ```
 
-• For Horizontal rule : 
+➢ For Horizontal rule : 
 ```html
 <hr size=5 width="20%" color= white >
 
 ```
 
-• For Image : 
+➢ For Image : 
 ```html
 <img SRC=“Location”
 
@@ -97,7 +97,7 @@ VSPACE=“vertical Margin”>
 
 ⏺️ Paired Tags
 
-• For Bold : 
+➢ For Bold : 
 ```html
 <B> ... </B>
 OR
@@ -105,7 +105,7 @@ OR
 
 ```
 
-• For Italics : 
+➢ For Italics : 
 ```html
 <I> ... </I>
 OR
@@ -113,39 +113,39 @@ OR
 
 ```
 
-• For Underline : 
+➢ For Underline : 
 ```html
 <U> ... </U>
 
 ```
 
-• For Big & Small font  : 
+➢ For Big & Small font  : 
 ```html
 <Big> ... </Big>
 <Small> ... </Small>
 
 ```
 
-• To Strike text : 
+➢ To Strike text : 
 ```html
 <S> ... </S>
 
 ```
 
-• For Paragraph : 
+➢ For Paragraph : 
 ```html
 <p align = "center"> ... </p>
 
 ```
 
-• For Superscript : 
+➢ For Superscript : 
 ```html
 <Sup> ... </Sup>
 
 ```
 Eg. `X<sup>2</sup>+5`
 
-For Subscript : 
+➢ For Subscript : 
 ```html
 <Sub> ... </Sub>
 
@@ -156,7 +156,7 @@ Eg. `H<sub>2</sub>O`
 
 ⏺️ Lists 
 
-For List Item : 
+➢ For List Item : 
 ```html
 <li> ... </li>
 
@@ -164,7 +164,7 @@ For List Item :
 
 🟠 For Unordered List : 
 
-➢ Attribute - 
+⊡⁠ Attribute - 
 
 1) Type
 > - Disc (By default) ●
@@ -173,7 +173,7 @@ For List Item :
 
 🟠 For Ordered List : 
 
-➢ Attribute - 
+⊡⁠ Attribute - 
 
 1) Type
 > - Type = "1"    - 1,2,3,4...
@@ -198,7 +198,7 @@ For List Item :
 
 ```
 
-• Pre tag
+➢ Pre tag
 
 ```html
 To preformat / position the text : 
@@ -206,14 +206,14 @@ To preformat / position the text :
 
 ```
 
-• Font tag  
+➢ Font tag  
 
-➢ Attributes : 
+⊡⁠ Attributes : 
 > - Size -  maximum  value is 7 
 > - Color - RGB color 
 > - Face - Font name 
 
-• For Headings
+➢ For Headings
 
 6 headings : `<H1> … <H6>`
 
@@ -221,11 +221,11 @@ To preformat / position the text :
 
 `<H6>` : smallest heading
 
-➢ Attribute : 
+⊡⁠ Attribute : 
 > - Style : color, font-size, font-family
 > - Align
 
-• Marquee tag
+➢ Marquee tag
 
 ```html
 For scrolling the text on horizontal line : 
@@ -233,7 +233,7 @@ For scrolling the text on horizontal line :
 
 ```
 
-➢ Attributes : 
+⊡⁠ Attributes : 
 > - Height
 > - Width
 > - Bgcolor
