@@ -172,18 +172,25 @@ Attributes :
 ➢ Face - Font name 
 
 For Headings
-6 headings : <H1> … <H6>
 
-<H1> : largest heading
+6 headings : `<H1> … <H6>`
 
-<H6> : smallest heading
+`<H1>` : largest heading
+
+`<H6>` : smallest heading
 
 Attribute : 
 ➢ Style : color, font-size, font-family
 
 ➢ Align
 
-For scrolling the text on horizontal line : <Marquee> ... </Marquee>
+For scrolling the text on horizontal line : 
+
+```html
+<Marquee> ... </Marquee>
+
+```
+
 Attributes : 
 ➢ Height
 ➢ Width
