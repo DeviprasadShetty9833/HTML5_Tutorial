@@ -21,7 +21,7 @@
 
 # HTML
 
-• Extension :  .html  or  .htm
+• Extension :  `.html`  OR  `.htm`
 
 • Syntax of Html : 
 
