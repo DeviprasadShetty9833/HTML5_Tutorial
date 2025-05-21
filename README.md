@@ -37,8 +37,7 @@
 </html>
 
 ```
-
-<br> ____________________________________________
+---
 
 Attributes of <body> tag :
 ➢ Background - image file as a background behind the displayed text.
@@ -56,8 +55,13 @@ Attributes of <body> tag :
 • Start & End tag : <tag> & </tag>
 => Tags : Not Case Sensitive 
 
-For Comments : ` <!-- ... --> `
-<br> ____________________________________________
+For Comments : 
+
+```html
+<!-- ... --> `
+
+```
+---
 
 ◇ Unpaired Tags
 
@@ -80,7 +84,8 @@ ALT=“alternative text”
 HSPACE=“horizontal Margin”
 
 VSPACE=“vertical Margin”>>
-<br> ____________________________________________
+
+---
 
 ◇ Paired Tags
 
@@ -104,7 +109,8 @@ eg. X<sup>2</sup>+5
 
 For Subscript : <Sub> ... </Sub>
 eg. H<sub>2</sub>O
-<br> ____________________________________________
+
+---
 
 ◇ Lists 
 
@@ -175,6 +181,8 @@ Attributes :
 ➢ Height
 ➢ Width
 ➢ Bgcolor
+
+---
 
 # Support:
 If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
