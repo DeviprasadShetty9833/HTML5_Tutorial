@@ -25,6 +25,8 @@
 
 • Syntax of Html : 
 
+```html
+
 <html>
   <head>
     <title> TITLE </title>
@@ -33,12 +35,13 @@
   <body> Actual contents in the page
   </body>
 </html>
-____________________________________________
+
+```
+
+<br> ____________________________________________
 
 Attributes of <body> tag :
-➢ Background - image file as a 
-
-background behind the displayed text.
+➢ Background - image file as a background behind the displayed text.
 
 ➢ BGCOLOR - background color of web page.
 
@@ -53,8 +56,8 @@ background behind the displayed text.
 • Start & End tag : <tag> & </tag>
 => Tags : Not Case Sensitive 
 
-For Comments : <!-- ... --> 
-____________________________________________
+For Comments : ` <!-- ... --> `
+<br> ____________________________________________
 
 ◇ Unpaired Tags
 
@@ -77,7 +80,7 @@ ALT=“alternative text”
 HSPACE=“horizontal Margin”
 
 VSPACE=“vertical Margin”>>
-____________________________________________
+<br> ____________________________________________
 
 ◇ Paired Tags
 
@@ -101,7 +104,7 @@ eg. X<sup>2</sup>+5
 
 For Subscript : <Sub> ... </Sub>
 eg. H<sub>2</sub>O
-____________________________________________
+<br> ____________________________________________
 
 ◇ Lists 
 
