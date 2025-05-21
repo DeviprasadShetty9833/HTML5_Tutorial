@@ -24,7 +24,6 @@
 • Extension :  `.html`  OR  `.htm`
 
 • Syntax of Html : 
-
 ```html
 
 <html>
@@ -58,7 +57,6 @@ Attributes of `<body>` tag :
 => Tags : Not Case Sensitive 
 
 For Comments : 
-
 ```html
 <!-- ... --> 
 
@@ -70,9 +68,8 @@ For Comments :
 For Line Break : `<br>`
 
 For Horizontal rule : 
-
 ```html
-<hr size=5 width="20%" color= white  >
+<hr size=5 width="20%" color= white >
 
 ```
 
@@ -97,7 +94,6 @@ VSPACE=“vertical Margin”>>
 ◇ Paired Tags
 
 For Bold : 
-
 ```html
 <B> ... </B>
 OR
@@ -157,7 +153,6 @@ Eg. `H<sub>2</sub>O`
 ◇ Lists 
 
 For List Item : 
-
 ```html
 <li> ... </li>
 
@@ -165,15 +160,22 @@ For List Item :
 
 For Unordered List : 
 
-Attribute - Type
+Attribute - 
+
+1) Type
+
 i) Disc (By default) ●
+
 ii) Circle ○
 
 iii) Square ■
 
 For Ordered List : 
 
-Attribute - 1) Type 
+Attribute - 
+
+1) Type
+
 i) Type = "1"    - 1,2,3,4...
 
 ii) Type = "i"    - i,ii,iii,iv...
@@ -186,14 +188,13 @@ v) Type = "A"   - A,B,C,D…
 
 2) Start = "number" - beginning of list's no. sequence
 
-<DL> tag-  Definition List.
+`<DL>` tag-  Definition List.
 
-<DT> tag- Definition Term.
+`<DT>` tag- Definition Term.
 
-<DD> tag- Definition Description.
+`<DD>` tag- Definition Description.
 
 ```html
-
 <DL>
 <DT> ... </DT>
 <DD> ... </DD>
@@ -210,6 +211,7 @@ To preformat / position the text :
 ```
 
 Font tag  
+
 Attributes : 
 
 ➢ Size -  maximum  value is 7 
@@ -227,6 +229,7 @@ For Headings
 `<H6>` : smallest heading
 
 Attribute : 
+
 ➢ Style : color, font-size, font-family
 
 ➢ Align
@@ -239,8 +242,11 @@ For scrolling the text on horizontal line :
 ```
 
 Attributes : 
+
 ➢ Height
+
 ➢ Width
+
 ➢ Bgcolor
 
 ---
