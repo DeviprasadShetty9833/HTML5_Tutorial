@@ -154,12 +154,15 @@ v) Type = "A"   - A,B,C,D…
 
 ```
 
-<Pre> tag
+Pre tag
 
+```html
 To preformat / position the text : 
 <Pre> ... </Pre>
 
-<Font> tag  
+```
+
+Font tag  
 Attributes : 
 
 ➢ Size -  maximum  value is 7 
