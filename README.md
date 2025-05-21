@@ -50,7 +50,7 @@
 
 • Start & End tag : `<tag>` & `</tag>`
 
-=> Tags : Not Case Sensitive 
+➢ Tags : Not Case Sensitive 
 
 For Comments : 
 ```html
