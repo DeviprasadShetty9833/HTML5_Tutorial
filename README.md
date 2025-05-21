@@ -21,6 +21,8 @@
 
 # HTML
 
+• HTML stands for HyperText Markup Language 
+
 ➢ Extension :  `.html`  OR  `.htm`
 
 ➢ Syntax of Html : 
