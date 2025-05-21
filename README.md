@@ -163,9 +163,7 @@ For List Item :
 
 1) Type
 > - Disc (By default) ●
-
 > - Circle ○
-
 > - Square ■
 
 🟠 For Ordered List : 
@@ -174,13 +172,9 @@ For List Item :
 
 1) Type
 > - Type = "1"    - 1,2,3,4...
-
 > - Type = "i"    - i,ii,iii,iv...
-
 > - Type = "I"   - I,II,III,IV…
-
 > - Type = "a"  - a,b,c,d…
-
 > - Type = "A"   - A,B,C,D…
 
 2) Start = "number" - beginning of list's no. sequence
