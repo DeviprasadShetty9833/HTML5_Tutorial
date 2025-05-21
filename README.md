@@ -60,7 +60,7 @@ Attributes of `<body>` tag :
 For Comments : 
 
 ```html
-<!-- ... --> `
+<!-- ... --> 
 
 ```
 ---
@@ -69,7 +69,12 @@ For Comments :
 
 For Line Break : `<br>`
 
-For Horizontal rule : <hr size=5 width="20%" color= white  >
+For Horizontal rule : 
+
+```html
+<hr size=5 width="20%" color= white  >
+
+```
 
 For Image : <img SRC=“Location”
 
