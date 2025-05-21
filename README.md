@@ -59,7 +59,7 @@
 ```
 ---
 
-● Unpaired Tags
+⏺️ Unpaired Tags
 
 • For Line Break : `<br>`
 
@@ -89,7 +89,7 @@ VSPACE=“vertical Margin”>>
 
 ---
 
-● Paired Tags
+⏺️ Paired Tags
 
 • For Bold : 
 ```html
@@ -148,7 +148,7 @@ Eg. `H<sub>2</sub>O`
 
 ---
 
-● Lists 
+⏺️ Lists 
 
 For List Item : 
 ```html
@@ -210,13 +210,10 @@ To preformat / position the text :
 
 Font tag  
 
-Attributes : 
-
-➢ Size -  maximum  value is 7 
-
-➢ Color - RGB color 
-
-➢ Face - Font name 
+➢ Attributes : 
+> - Size -  maximum  value is 7 
+> - Color - RGB color 
+> - Face - Font name 
 
 For Headings
 
@@ -226,11 +223,9 @@ For Headings
 
 `<H6>` : smallest heading
 
-Attribute : 
-
-➢ Style : color, font-size, font-family
-
-➢ Align
+➢ Attribute : 
+> - Style : color, font-size, font-family
+> - Align
 
 For scrolling the text on horizontal line : 
 
@@ -239,13 +234,10 @@ For scrolling the text on horizontal line :
 
 ```
 
-Attributes : 
-
-➢ Height
-
-➢ Width
-
-➢ Bgcolor
+➢ Attributes : 
+> - Height
+> - Width
+> - Bgcolor
 
  ![status](https://img.shields.io/badge/status-upcoming-yellow)
 
