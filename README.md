@@ -53,7 +53,7 @@
 
 ➢ Angle brackets : `< >`  
 
-➢ Start & End tag : `<tag>` & `</tag>`
+➢ Start & End tag : `<tagname>` & `</tagname>`
 
 ⊡⁠ Tags : Not Case Sensitive 
 
