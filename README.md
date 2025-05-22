@@ -80,9 +80,9 @@
 
 ➢ For Image : 
 ```html
-<img SRC=“Location”
+<img SRC=“Location”  -URL of image
 
-Align=“alignment” -URL of image
+Align=“alignment” 
 
 Border=“borderwidth”
 
