@@ -55,7 +55,10 @@
 
 ➢ Start & End tag : `<tagname>` & `</tagname>`
 
-⊡⁠ Tags : Not Case Sensitive 
+> - An opening tag indicates where the content begins: <tagname>.
+> - A closing tag indicates where the content ends: </tagname>.
+> - The actual content resides between the opening and closing tags.
+> - HTML tags are not Case-sensitive. For example, <B> and <b> both represent bold text.
 
 ➢ For Comments : 
 ```html
